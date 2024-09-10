@@ -27,4 +27,5 @@ The Music Store Analysis project dives deep into the store's database, analyzing
 - **Language**: SQL
 
 ## 🚀 Project Link
+SQL-Music-Store_Analysis-Project
 
