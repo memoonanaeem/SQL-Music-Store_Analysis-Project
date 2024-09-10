@@ -28,4 +28,5 @@ The Music Store Analysis project dives deep into the store's database, analyzing
 
 ## 🚀 Project Link
 SQL-Music-Store_Analysis-Project
+https://github.com/memoonanaeem/SQL-Music-Store_Analysis-Project
 
